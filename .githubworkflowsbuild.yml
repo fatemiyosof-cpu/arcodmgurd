@@ -1,0 +1,17 @@
+ar-guard/
+├── .github/workflows/build.yml
+├── settings.gradle.kts
+├── build.gradle.kts
+├── gradle.properties
+└── app/
+    ├── build.gradle.kts
+    └── src/main/
+        ├── AndroidManifest.xml
+        ├── res/values/strings.xml
+        ├── res/values/themes.xml
+        ├── res/drawable/ic_launcher.png   ← آیکونی که فرستادی
+        └── java/com/arguard/app/
+            ├── MainActivity.kt
+            ├── SettingsActivity.kt
+            ├── AboutActivity.kt
+            └── Core.kt

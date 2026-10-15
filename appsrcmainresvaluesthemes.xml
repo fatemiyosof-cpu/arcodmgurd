@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.ArGuard" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#E53935</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FF5252</item>
+        <item name="android:statusBarColor">#0A0000</item>
+        <item name="android:navigationBarColor">#0A0000</item>
+        <item name="android:windowBackground">#0A0000</item>
+    </style>
+</resources>
